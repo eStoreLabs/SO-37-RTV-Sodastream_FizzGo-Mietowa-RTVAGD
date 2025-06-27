@@ -804,6 +804,12 @@
   #es-rc #es-rc-content .es-benefits__subtitle {
     margin-bottom: 31px;
   }
+  #es-rc #es-rc-content .es-style__packshot-desktop-title--1 {
+    max-width: none;
+  }
+  #es-rc #es-rc-content .es-style__packshot-desktop-title--3 {
+    max-width: none;
+  }
 }
 @media screen and (min-width: 998px) {
   #es-rc #es-rc-content .es-kv__subtitle {
