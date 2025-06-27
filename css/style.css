@@ -614,7 +614,8 @@
   }
   #es-rc #es-rc-content .es-style__packshot-desktop-title--1 {
     top: 40%;
-    left: 4%;
+    left: 9%;
+    max-width: 75px;
   }
   #es-rc #es-rc-content .es-style__packshot-desktop-title--2 {
     top: -34%;
@@ -622,7 +623,8 @@
   }
   #es-rc #es-rc-content .es-style__packshot-desktop-title--3 {
     top: 40%;
-    right: -1%;
+    right: 11%;
+    max-width: 75px;
   }
   #es-rc #es-rc-content .es-benefits {
     padding-top: 0;
@@ -967,6 +969,7 @@
   #es-rc #es-rc-content .es-style__packshot-desktop-title--1 {
     top: 40%;
     left: 11%;
+    max-width: none;
   }
   #es-rc #es-rc-content .es-style__packshot-desktop-title--2 {
     top: -10%;
@@ -975,6 +978,7 @@
   #es-rc #es-rc-content .es-style__packshot-desktop-title--3 {
     top: 40%;
     right: 7%;
+    max-width: none;
   }
   #es-rc #es-rc-content .es-cross__title,
   #es-rc #es-rc-content .es-benefits__title,
